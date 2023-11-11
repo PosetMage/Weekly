@@ -4,6 +4,12 @@ title:  "2023-11-11-weekly update"
 date:   2023-11-11 06:00:00 +0800
 ---
 
+## TODO: in the future
+* feed GPTs growth hacking, copywriting, ads skill, marketing articles
+* feed GPTs how to coding godot 4
+* feed GPTs how to algo trading
+* 
+
 
 ## About Marketing
 * Create [GPTs - Japanese Reading Helper (xhtml parser)](https://www.youtube.com/watch?v=fFtNaplHDfs)
