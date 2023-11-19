@@ -29,6 +29,7 @@ date:   2023-11-18 06:00:00 +0800
   * donate blood
 * not keep learning japanese
 * take a week break
+* iterater better than hotpot not eat fried
 
 ## Other Thoughts
 
