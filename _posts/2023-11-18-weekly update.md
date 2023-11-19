@@ -12,7 +12,7 @@ date:   2023-11-18 06:00:00 +0800
 
 
 ## About Marketing
-* Create [GPTs - Japanese Reading Helper (xhtml parser)](https://www.youtube.com/watch?v=fFtNaplHDfs)
+* Create [GPTs - Daily Summarizer Diary Helper](https://www.youtube.com/watch?v=z0psx__-sEQ)
 
 ## About Game Creating
 
