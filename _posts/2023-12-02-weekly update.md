@@ -4,25 +4,36 @@ title:  "2023-12-02-weekly update"
 date:   2023-12-02 06:00:00 +0800
 ---
 
-## TODO: in the future
-* japanese learning
-* 
+## TODO:
+* next week: in the future
+    * japanese learning
+    * drawing
+    * understanding modeling building, concept art
+    * learning blender
 
+### About Game Creating
+design a new learning path of modeling building, concept art, storyboard, narrative
 
-## About Marketing
-* refractor lattice.posetmage.com
+### About Marketing
+* keep refractor lattice.posetmage.com
 
-## About Game Creating
+## Done:
+
 
 ### Drawing Ability
 * finished L7
 * start doing L8
 
-## Algo Trading
+### Algo Trading
 * TODO: research QuantConnect
 
-## About life
+### About life
 * plasma donation
 * try a new bento
 
-## Other Thoughts
+### Other Thoughts
+Blog
+* [Keep dimensional reduction attack](https://lattice.posetmage.com/2023/12/02/dimensional-reduction-attack.html)
+* [about trading](https://lattice.posetmage.com/2023/12/01/about-trading.html)
+* [Iterative](https://lattice.posetmage.com/2023/11/30/Iterative.html)
+* [Self-Awareness: From Athletic Performance to Personal Health](https://lattice.posetmage.com/2023/11/29/Self-Awareness.html)
