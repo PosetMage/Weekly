@@ -7,7 +7,7 @@ date:   2023-12-02 06:00:00 +0800
 ## TODO:
 * next week: in the future
     * japanese learning
-    * drawing
+    * drawing L8
     * understanding modeling building, concept art
     * learning blender
 
