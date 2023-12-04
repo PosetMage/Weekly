@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2023-11-11-weekly update"
+title:  "weekly update"
 date:   2023-11-11 06:00:00 +0800
 ---
 
