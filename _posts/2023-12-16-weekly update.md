@@ -31,6 +31,7 @@ date:   2023-12-16 06:00:00 +0800
 * new BB ver
 
 ### About life
+* strength training add deadlift
 
 ### Other Thoughts
 * [Self-Awareness: Cycle](https://lattice.posetmage.com/2023/12/13/Self-Awareness-Cycle.html)
