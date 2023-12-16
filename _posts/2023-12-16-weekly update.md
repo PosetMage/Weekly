@@ -9,6 +9,8 @@ date:   2023-12-16 06:00:00 +0800
 * learn blender
 * learn godot
 * write novel for KK
+* ai.posetmage.com still problems
+* drawing everyday for 1h
 
 ### About Game Creating
 
