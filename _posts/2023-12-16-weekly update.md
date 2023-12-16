@@ -32,6 +32,9 @@ date:   2023-12-16 06:00:00 +0800
 
 ### About life
 * strength training add deadlift
+* optmized my room, rearrange the room
+  * for more fast start to play PS4
+* in the future, i will play game when the week is low status.
 
 ### Other Thoughts
 * [Self-Awareness: Cycle](https://lattice.posetmage.com/2023/12/13/Self-Awareness-Cycle.html)
