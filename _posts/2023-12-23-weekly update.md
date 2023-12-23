@@ -5,15 +5,22 @@ date:   2023-12-23 06:00:00 +0800
 ---
 
 ## TODO:
-
-designing....
-
+* designing what to do
+* learning godot
+* learning jp?
 
 ### About Marketing
+* keep on improve self
+
 
 
 
 ## Done:
+### About Marketing
+* keep on improve self
+* finding where that i better than other, not others better than me
+
+
 ### About Game Creating
 * Reading D&D 5E - Dungeon Master's Guide 
   * [how to coorp DM](https://slides.posetmage.com/Krenz/DnD/Guidelines)
