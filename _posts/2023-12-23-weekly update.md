@@ -24,7 +24,7 @@ date:   2023-12-23 06:00:00 +0800
 ### About Game Creating
 * Reading D&D 5E - Dungeon Master's Guide 
   * [how to coorp DM](https://slides.posetmage.com/Krenz/DnD/Guidelines)
-  * create GPTs: [Doris - dnd5e Dungeon Master](https://gptstore.ai/gpts/S_jpnGmnyu-doris-dnd5e-dungeon-master)
+  * create GPTs: [Daniella - dnd5e Dungeon Master and Diarist](https://gptstore.ai/gpts/S_jpnGmnyu)
 
 ### Music
 * start training hearing, start using Linn
