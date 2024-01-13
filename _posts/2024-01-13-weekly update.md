@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "weekly update"
-date:   2024-01-06 06:00:00 +0800
+date:   2024-01-13 06:00:00 +0800
 ---
 
 ## TODO:
@@ -11,31 +11,33 @@ date:   2024-01-06 06:00:00 +0800
 * using linn, listening some note
 * About Marketing
   * understanding marketing smell
-
+* watch Krenz video
 
 ## Done:
 
 ### About Marketing
 * Start reading  [The 16 Undeniable Laws of Communication by John C. Maxwell](https://www.youtube.com/watch?v=SaAPYWVbg3U)
   * mix reading pdf and listening audiobook
+* start reading  [(Full Audiobook) - Expert Secrets: by Russell Brunson ](https://www.youtube.com/watch?v=1XDK7ciT0xQ)
 
 ### About Game Creating
-* Keep Reading D&D 5E - Dungeon Master's Guide 
+* read ゲームシナリオの教科書 ぼくらのゲームの作り方
 
 ### Music
 
 ### JP
-* vert to tiktok
+* verb to tiktok
 
 ### Drawing
-* KK composition DLC L1, L2
-
 
 ### Algo Trading
 * right-side trading need raise 
 
 ### About life
-* worst week
+* Watch the presidential election candidates' policy presentation for president and vice president.
+* Watch the presidential election candidates' debate for president and vice president.
+* Vote.
+* Monitor the voting process.
+* Understand civil movements.
 
 ### Other Thoughts
-[Learning Plateau](https://lattice.posetmage.com/2024/01/05/Learning-Plateau.html)
