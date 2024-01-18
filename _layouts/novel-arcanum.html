@@ -1,0 +1,13 @@
+---
+layout: novel-base
+---
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+      fetch('/Novel/Arcanum/toc.html')
+        .then(response => response.text())
+        .then(data => {
+          document.getElementById('outline').innerHTML = data;
+        });
+    });
+  </script>

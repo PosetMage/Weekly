@@ -36,6 +36,7 @@ feed:
 
 #order
 header_pages:
+  - weekly.md
   - novel.md
 
 

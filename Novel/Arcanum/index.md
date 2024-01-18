@@ -1,5 +1,5 @@
 ---
 title: 'Arcanum'
-layout: arcanum
+layout: novel-arcanum
 ---
 
