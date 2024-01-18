@@ -25,8 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://update.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-includes_dir: _shared/_includes
-layouts_dir: _shared/_layouts
 
 feed:
   title: "PosetMage Updates"
@@ -53,6 +51,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-category-pages
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

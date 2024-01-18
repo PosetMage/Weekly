@@ -1,7 +1,9 @@
 ---
-layout: base
+title: 'Arcanum'
+layout: arcanum
 ---
 
+xyz
 
 <h2>文章：</h2>
 <ul>

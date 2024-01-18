@@ -6,3 +6,4 @@ vendor
 /.vs
 
 .png
+Gemfile.lock
