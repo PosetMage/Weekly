@@ -9,6 +9,6 @@ layout: default
   
   {% for p in site.pages %}
       {% if p.tags contains page.tags.first %}
-      ．<a style="font-size: 1em;" href="{{ p.url | relative_url }}">{{ p.title }}</a><br> 
+          <a style="font-size: 1em;" href="{{ p.url | relative_url }}">{{ p.title }}</a><br> 
       {% endif %}
   {% endfor %}
