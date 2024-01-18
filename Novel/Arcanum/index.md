@@ -1,5 +1,5 @@
 ---
-title: 'Novels'
+title: 'Arcanum'
 layout: page
 ---
 

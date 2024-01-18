@@ -1,6 +1,8 @@
 ---
 title: 'Novels'
-layout: default
+layout: page
 ---
 
-[Arcanum](./Novel/Arcanum/)
+<meta http-equiv="refresh" content="0; /Novel/" />
+
+## Waiting for loading......
