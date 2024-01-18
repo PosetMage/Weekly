@@ -25,12 +25,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://update.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+includes_dir: _shared/_includes
+layouts_dir: _shared/_layouts
+
 feed:
-  title: "PosetMage"
-  description: "AI Synchronizer, loving ACGN"
+  title: "PosetMage Updates"
+  description: "weekly updates"
   author: "PosetMage"
   email: "mail@posetmage.com"
-  url: "https://posetmage.com"
+  url: "https://update.posetmage.com"
   output: true
 
 #order
