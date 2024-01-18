@@ -4,3 +4,5 @@ layout: page
 ---
 
 [Arcanum](./Arcanum/)
+
+[Entropy](./Entropy/)
