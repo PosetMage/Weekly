@@ -1,6 +1,6 @@
 ---
 title: 'Novels'
-layout: default
+layout: page
 ---
 
 

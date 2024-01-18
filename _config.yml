@@ -33,6 +33,10 @@ feed:
   url: "https://posetmage.com"
   output: true
 
+#order
+header_pages:
+  - novel.md
+
 
 # Build settings
 remote_theme: jekyll/minima
