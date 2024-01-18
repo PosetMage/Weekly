@@ -1,6 +1,5 @@
 ---
 title: 'Arcanum'
-layout: page
+layout: novel-arcanum
 ---
 
-[Arcanum](./Novel/Arcanum/)

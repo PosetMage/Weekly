@@ -3,4 +3,4 @@ title: 'Novels'
 layout: page
 ---
 
-[Arcanum](./Novel/Arcanum/)
+[Arcanum](./Arcanum/)
