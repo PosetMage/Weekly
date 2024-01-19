@@ -21,9 +21,10 @@
 title: Weekly Updates of PosetMage
 email: mail@posetmage.com
 
-baseurl: "Weekly" # the subpath of your site, e.g. /blog
+baseurl: "/Weekly" # the subpath of your site, e.g. /blog
 url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+repository: posetmage/Weekly
 
 feed:
   title: "Weekly Updates of PosetMage"
@@ -53,14 +54,6 @@ social:
     url: https://t.me/posetmage
   - platform: twitch
     url: https://twitch.tv/posetmage
-
-#order
-header_pages:
-  - About.md
-  - Blog.md
-  - Novel.md
-  - Weekly.md
-  - Contact.md
 
 # Build settings
 remote_theme: jekyll/minima
