@@ -1,5 +1,0 @@
----
-title: 'Weekly'
-layout: home
----
-
