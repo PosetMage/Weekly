@@ -54,14 +54,6 @@ social:
   - platform: twitch
     url: https://twitch.tv/posetmage
 
-#order
-header_pages:
-  - About.md
-  - Blog.md
-  - Novel.md
-  - Weekly.md
-  - Contact.md
-
 # Build settings
 remote_theme: jekyll/minima
 
