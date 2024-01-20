@@ -20,6 +20,7 @@ date:   2024-01-20 06:00:00 +0800
   * mix reading pdf and listening audiobook
 * start reading  [(Full Audiobook) - Expert Secrets: by Russell Brunson ](https://www.youtube.com/watch?v=1XDK7ciT0xQ)
 * refractor posetmage.com weekly update, novel, blog for future better workflow
+* refractor lattice.posetmage.com notes, slides, put files under same domain
 
 ### About Game
 Start playing homm after meditation
