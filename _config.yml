@@ -21,12 +21,8 @@
 title: Weekly Updates of PosetMage
 email: mail@posetmage.com
 
-baseurl: "/Weekly" # the subpath of your site, e.g. /blog
 url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
-
-includes_dir: _shared/_includes
-layouts_dir: _shared/_layouts
-
+baseurl: "/Weekly" # the subpath of your site, e.g. /blog
 
 repository: posetmage/Weekly
 
@@ -58,6 +54,9 @@ social:
     url: https://t.me/posetmage
   - platform: twitch
     url: https://twitch.tv/posetmage
+
+includes_dir: _shared/_includes
+layouts_dir: _shared/_layouts
 
 # Build settings
 remote_theme: jekyll/minima
