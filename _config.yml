@@ -18,20 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Weekly Updates of PosetMage
+title: PosetMage
 email: mail@posetmage.com
-url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/Weekly" # the subpath of your site, e.g. /blog
+url: https://posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 repository: posetmage/Weekly
+baseurl: /Weekly # the subpath of your site, e.g. /blog
+description: Weekly
+
 
 feed:
-  title: "Weekly Updates of PosetMage"
-  description: "weekly updates"
-  author: "PosetMage"
-  email: "mail@posetmage.com"
-  url: "https://posetmage.com/Weekly"
+  title: Weekly Updates of PosetMage
+  description: 国士無双 一騎当千
+  author: PosetMage
+  email: mail@posetmage.com
+  url: https://posetmage.com/Novel
   output: true
-
 
 social:
   - platform: envelope
@@ -50,8 +51,6 @@ social:
     url: https://t.me/posetmage
   - platform: twitch
     url: https://twitch.tv/posetmage
-
-
 
 # Build settings
 remote_theme: jekyll/minima

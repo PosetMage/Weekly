@@ -19,9 +19,9 @@ date:   2024-02-03 06:00:00 +0800
 * finish writing-ai-master 
   * start daily writing on AlchemyMage
   * refractor latticemage/posetmage/aimage/alchemymage
+* move zh content to alchemy
 
 ### About Game
-
 
 ### About Game Creating
 
