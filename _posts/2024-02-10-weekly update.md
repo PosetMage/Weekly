@@ -19,6 +19,7 @@ date:   2024-02-10 06:00:00 +0800
 ### About Marketing
 * keep daily update AlchemyMage
 * refractor all website, done.
+* see https://youtu.be/dcrhhIKNaRQ?si=rou3S292E6vFM9RG
 
 ### About Game Design
 
