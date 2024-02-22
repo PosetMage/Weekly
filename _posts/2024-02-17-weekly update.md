@@ -13,6 +13,7 @@ date:   2024-02-17 06:00:00 +0800
 * About Marketing
   * keep writing
 * watch Krenz video
+* prepare for consult
 
 ## Done:
 
