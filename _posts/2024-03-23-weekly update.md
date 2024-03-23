@@ -24,7 +24,7 @@ date:   2024-03-16 10:00:00 +0800
 
 ### About Marketing
 * AI鍊金工作坊上完第一堂課
-
+* AlchemyMage YT better layout
 
 ### About Game Design
 * 
