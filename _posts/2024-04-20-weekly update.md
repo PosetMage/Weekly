@@ -31,6 +31,7 @@ date:   2024-04-20 10:00:00 +0800
 
 ### About Marketing
 * finish AI鍊金工作坊
+* convert lecture to articles with SEO
 
 ### About Game Design
 * TODO: 週末熱炒店的編劇課
