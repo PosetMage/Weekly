@@ -21,16 +21,13 @@
 title: PosetMage
 email: mail@posetmage.com
 url: https://posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
-slogan: 国士無双
 
 repository: posetmage/Weekly
 baseurl: /Weekly # the subpath of your site, e.g. /blog
 description: Weekly
 
-
 feed:
   title: Weekly Updates of PosetMage
-  description: 国士無双
   author: PosetMage
   email: mail@posetmage.com
   url: https://posetmage.com/Weekly
@@ -56,6 +53,12 @@ social:
 
 # Build settings
 remote_theme: jekyll/minima
+
+exclude:
+  - _includes/.git/
+  - _layouts/.git/
+  - _layouts/page/.git/
+  - assets/.git/
 
 minima:
   skin: dark
